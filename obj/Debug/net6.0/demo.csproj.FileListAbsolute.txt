@@ -130,3 +130,14 @@ C:\Users\ITLAB2013PC1\Downloads\WDT-Project-master\WDT-Project-master\obj\Debug\
 C:\Users\ITLAB2013PC1\Downloads\WDT-Project-master\WDT-Project-master\obj\Debug\net6.0\demo.pdb
 C:\Users\ITLAB2013PC1\Downloads\WDT-Project-master\WDT-Project-master\obj\Debug\net6.0\demo.genruntimeconfig.cache
 C:\Users\ITLAB2013PC1\Downloads\WDT-Project-master\WDT-Project-master\obj\Debug\net6.0\ref\demo.dll
+E:\ME\SU\Sinai University projects\WDT_Project\obj\Debug\net6.0\demo.csproj.AssemblyReference.cache
+E:\ME\SU\Sinai University projects\WDT_Project\obj\Debug\net6.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\ME\SU\Sinai University projects\WDT_Project\obj\Debug\net6.0\demo.AssemblyInfoInputs.cache
+E:\ME\SU\Sinai University projects\WDT_Project\obj\Debug\net6.0\demo.AssemblyInfo.cs
+E:\ME\SU\Sinai University projects\WDT_Project\obj\Debug\net6.0\demo.csproj.CoreCompileInputs.cache
+E:\ME\SU\Sinai University projects\WDT_Project\obj\Debug\net6.0\demo.MvcApplicationPartsAssemblyInfo.cache
+E:\ME\SU\Sinai University projects\WDT_Project\obj\Debug\net6.0\demo.RazorAssemblyInfo.cache
+E:\ME\SU\Sinai University projects\WDT_Project\obj\Debug\net6.0\demo.RazorAssemblyInfo.cs
+E:\ME\SU\Sinai University projects\WDT_Project\obj\Debug\net6.0\demo.dll
+E:\ME\SU\Sinai University projects\WDT_Project\obj\Debug\net6.0\refint\demo.dll
+E:\ME\SU\Sinai University projects\WDT_Project\obj\Debug\net6.0\demo.pdb
