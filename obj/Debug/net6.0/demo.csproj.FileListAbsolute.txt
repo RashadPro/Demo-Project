@@ -141,3 +141,15 @@ E:\ME\SU\Sinai University projects\WDT_Project\obj\Debug\net6.0\demo.RazorAssemb
 E:\ME\SU\Sinai University projects\WDT_Project\obj\Debug\net6.0\demo.dll
 E:\ME\SU\Sinai University projects\WDT_Project\obj\Debug\net6.0\refint\demo.dll
 E:\ME\SU\Sinai University projects\WDT_Project\obj\Debug\net6.0\demo.pdb
+E:\3ird year\secoend semester\WDT Project\project\Library-Project\obj\Debug\net6.0\demo.csproj.AssemblyReference.cache
+E:\3ird year\secoend semester\WDT Project\project\Library-Project\obj\Debug\net6.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\3ird year\secoend semester\WDT Project\project\Library-Project\obj\Debug\net6.0\demo.AssemblyInfoInputs.cache
+E:\3ird year\secoend semester\WDT Project\project\Library-Project\obj\Debug\net6.0\demo.AssemblyInfo.cs
+E:\3ird year\secoend semester\WDT Project\project\Library-Project\obj\Debug\net6.0\demo.csproj.CoreCompileInputs.cache
+E:\3ird year\secoend semester\WDT Project\project\Library-Project\obj\Debug\net6.0\demo.MvcApplicationPartsAssemblyInfo.cache
+E:\3ird year\secoend semester\WDT Project\project\Library-Project\obj\Debug\net6.0\demo.RazorAssemblyInfo.cache
+E:\3ird year\secoend semester\WDT Project\project\Library-Project\obj\Debug\net6.0\demo.RazorAssemblyInfo.cs
+E:\3ird year\secoend semester\WDT Project\project\Library-Project\obj\Debug\net6.0\demo.sourcelink.json
+E:\3ird year\secoend semester\WDT Project\project\Library-Project\obj\Debug\net6.0\demo.dll
+E:\3ird year\secoend semester\WDT Project\project\Library-Project\obj\Debug\net6.0\refint\demo.dll
+E:\3ird year\secoend semester\WDT Project\project\Library-Project\obj\Debug\net6.0\demo.pdb
